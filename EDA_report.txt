@@ -1,0 +1,33 @@
+PAPER LEAKS IN INDIA — EXPLORATORY DATA ANALYSIS
+=======================================================
+Rows: 66
+Columns: 13
+Date range: 2014-06-23 to 2024-08-26
+Confirmed cases: 48
+Accused cases: 18
+State conducting bodies: 50
+Central conducting bodies: 13
+Private conducting bodies: 3
+Missing Action taken: 2
+Missing Appeared Students: 65
+
+DATA QUALITY
+Appeared Students: 65 missing (98.5%)
+Date: 0 missing (0.0%)
+Exam Name: 0 missing (0.0%)
+Year: 0 missing (0.0%)
+Conducting Body: 0 missing (0.0%)
+Conducting Body Type: 0 missing (0.0%)
+Leak Confirmation Status: 0 missing (0.0%)
+Area(s) of Incident: 0 missing (0.0%)
+Action taken: 0 missing (0.0%)
+Note about action Taken: 0 missing (0.0%)
+Note about incident: 0 missing (0.0%)
+References: 0 missing (0.0%)
+
+KEY FINDINGS
+• Highest incident year: 2023 (15 cases).
+• Most reported area: Uttar Pradesh (11 cases).
+• Confirmed cases: 48 (72.7%).
+• Most common action: Exam Cancelled (30 cases).
+• Appeared Students is almost entirely missing (65 of 66 rows), so it should not be used for quantitative conclusions.
