@@ -39,9 +39,9 @@ Create:
 ## Run
 ```powershell
 pip install -r requirements.txt
-python task1_paper_leak_web_scraping.py
+python task1_web_scraping.py
 python task2_eda.py
-python task3_visualization.py
+python task3_data_visualization.py
 ```
 
 ## Important
