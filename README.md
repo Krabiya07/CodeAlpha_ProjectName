@@ -44,7 +44,4 @@ python task2_eda.py
 python task3_data_visualization.py
 ```
 
-## Important
-The supplied CSV is the main analysis dataset. Task 1 is a separate web-scraping
-activity related to the same Paper Leak India topic. The project does not use the
-Books dataset.
+
